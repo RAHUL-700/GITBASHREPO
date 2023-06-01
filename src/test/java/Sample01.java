@@ -6,6 +6,11 @@ public class Sample01 {
 		//thank you
 		//welcome thank you 
 
+		//hi hello
+
+		System.out.println("test case successfully completed");
+
+
 	}
 
 }
